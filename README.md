@@ -1,6 +1,6 @@
 # min-webpack-templates
 
-> Minimum webpack template.
+> Minimum webpack templates.
 
 ``` bash
 # install dependencies
